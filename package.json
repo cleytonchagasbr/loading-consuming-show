@@ -1,0 +1,14 @@
+{
+  "name": "loading-consuming-show",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cleytonchagasbr/loading-consuming-show.git",
+  "author": "Cleyton Chagas <cleyton-chagas@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "/api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
